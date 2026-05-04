@@ -1,0 +1,58 @@
+[
+  {
+    "symptoms": ["cough", "cold"],
+    "remedy": "Tulsi",
+    "image" : "https://as2.ftcdn.net/v2/jpg/04/07/13/09/1000_F_407130972_aKlwxKN6raCOgRUy3boL52mqAHfOqBfG.jpg",
+    "uses": "Boosts immunity and treats cough",
+    "part": "Leaves",
+    "how" : "Boil Tulsi leaves in water and drink twice daily"
+  },
+  {
+    "symptoms": ["burn", "skin irritation"],
+    "remedy": "Aloe Vera",
+    "image" : "https://tse2.mm.bing.net/th/id/OIP.AGlWdXlADw9BDjB03u-2yQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "uses": "Soothes skin and heals burns",
+    "part": "Gel",
+     "how": "Apply fresh Aloe Vera gel directly on the affected area 2–3 times a day."
+  },
+  {
+    "symptoms": ["fever", "infection"],
+    "remedy": "Neem",
+    "image" : "https://tse1.mm.bing.net/th/id/OIP.xCK5d2-wiB80Q9ydGAtPJwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "uses": "Antibacterial and reduces fever",
+    "part": "Leaves",
+    "how": "Boil Neem leaves in water and drink once daily or use for bathing."
+  },
+  {
+    "symptoms": ["indigestion", "gas"],
+    "remedy": "Mint",
+    "image" : "https://tse4.mm.bing.net/th/id/OIP.PNPvTwzer_plUaB1BSs0eAHaE7?w=626&h=417&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "uses": "Improves digestion",
+    "part": "Leaves",
+    "how": "Chew fresh mint leaves or drink mint tea after meals."
+  },
+  {
+    "symptoms": ["wound", "pain"],
+    "remedy": "Turmeric",
+    "image" : "https://i.pinimg.com/736x/15/75/62/157562b12587121a93641022e2174aff.jpg",
+    "uses": "Anti-inflammatory and heals wounds",
+    "part": "Root",
+     "how": "Apply turmeric paste on wound or drink turmeric milk at night."
+  },
+  {
+    "symptoms": ["stress", "weakness"],
+    "remedy": "Ashwagandha",
+    "image" : "https://www.apnikheti.com/upload/crops/799idea99ashwagandha.jpg",
+    "uses": "Reduces stress and improves strength",
+    "part": "Roots",
+     "how": "Take Ashwagandha powder with warm milk before sleeping."
+  },
+  {
+  "symptoms": ["headache"],
+  "remedy": "Ginger",
+  "image": "https://tse2.mm.bing.net/th/id/OIP.iEi7HKO3OdVoASn-ntS_NAHaE4?rs=1&pid=ImgDetMain&o=7&rm=3",
+  "uses": "Relieves headache",
+  "part": "Root",
+  "how": "Drink ginger tea or apply ginger paste on forehead."
+  }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AYUSH AI Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+    <header>
+        🌿 AYUSH Herbal AI Assistant
+        <button onclick="logout()" style="float:right;">Logout</button>
+        <button onclick="toggleDark()">🌙 Mode</button>
+        <button onclick="downloadHistory()">📥 Download Chat</button>
+        <button onclick="findCenters()">📍Nearby AYUSH Centers</button>
+    </header>
+
+    <div id="chatbox"></div>
+
+    <div class="input-area">
+        <input type="text" id="userInput" placeholder="Describe your symptoms...">
+        <button onclick="sendMessage()">➤</button>
+        <button onclick="startVoice()">🎤</button>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
